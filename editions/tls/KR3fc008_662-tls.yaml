@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/662
+seq: 662
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五右上得五十六相減餘九爲法以中四五相乘得二十爲寄於中先以左下六千八百四互乘右上五十六得三十八萬一千二十四卻以右下適足之空乘左上六十五亦爲空乃去之只以右上三十八萬一千二十四斤爲絮實只以左下六千八百四乘寄二十人得一十三萬六千八十爲兵實二實皆如法九而一其絮得四萬二千三百三十六斤其兵得一萬五千一百二十人合問
+  hash: sha256:da36f94f954510cb64049a280cb62d09a47cb967edf3f4fd55c0debede01078e
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:825a2dd5cbf85e046dad62e57297769748bcfcadeb27828968fc3b1887ef01e8

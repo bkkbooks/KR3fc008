@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一卷大衍類蓍卦發微古厯會積推計土功推庫額錢第二卷分糶推原程行計地程行相及積尺尋源餘米推數第三卷天時類推氣治厯治厯推閏治厯演紀綴術推星第四卷揆日究微天池測雨
+  hash: sha256:40ddfca3bcffa0169b6e675dc17c15f8137d134cc2ca0b166fa949aaf6324cc9
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:31e6f1d6d4735c61bc53108748d1d15c600c1a5ea86dde58312351969a4a81fa

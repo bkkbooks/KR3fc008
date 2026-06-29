@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/670
+seq: 670
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百一十五套以左行求等得五十約之積得二萬九千四百貫沈得六十四裹瑇得三十斤乳得七十五套列爲定率圖三行副置求之今先欲去定圖下位乳香套數一十五與左下七十五互乘左右兩行右積得四百四十一萬貫沈得一萬五百瑇得六千六百乳得一千一百二十五左積得四十四萬一千貫沈得九百六十瑇得四百五十乳得一千一百二十五騐左積少右積多當以左行直減右行畢仍置定圖左行數右積得三百九十六萬九千貫沈得九千五百四十瑇得六千一百五十次騐中左兩行各有下位段又以左
+  hash: sha256:d169216ca723b0c6dc52cbf9c6694e133290de3553e5f60edd5cd0b616aca65d
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:2e455f5867e3b359731dfca0d4adb8e4e1b3b7bce9e61cc46e0dcd2856ba99d6

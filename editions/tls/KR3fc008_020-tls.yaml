@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方變銳陳計布圓陣第十六卷圓營敷布望知敵眾均敷徭役先計軍程軍器功程計造軍衣第十七卷市物類推求物價均貨推本互易推本菽粟互易第十八卷推計互易煉金計直推求本息推求興本僦直推原札記四卷附
+  hash: sha256:fdaeeeb830b00eea189c1d36b147ebcc4799335aeb38b6bb8744e5d66b2d1928
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:5031ca50f86ee67856fd4eeb8bddb0c8bc16a02e2342fc2f757c71495c83625e

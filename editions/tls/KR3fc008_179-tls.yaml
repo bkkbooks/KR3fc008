@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/179
+seq: 179
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仍以夏至羃八十二寸八千一百分加上位一百一寸八千六十分得一百八十四寸六千一百六十分爲大暑羃以爲實以一寸爲隅開平方得一尺三寸五分八十七秒爲大暑景不盡弃之又置立秋乘率二百八十九乘節率九千三百四十分得二百六十九寸九千二百六十分於上位
+  hash: sha256:13e184e50038006684765d9d71c2c6cc5674197add83fc3d607b80df4d4c8645
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:18ad034ec8c60d18b62da85d71587ca95a809857f33fcf20c7e79d3a2d0679ba

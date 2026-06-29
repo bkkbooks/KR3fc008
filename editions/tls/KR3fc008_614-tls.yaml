@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/614
+seq: 614
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立二百四十人外周三百二丈四尺立三百三十六人通徑一百丈八尺陣計九重不盡八人
+  hash: sha256:9ebdbe723317246958f508f15bb1f5729cdfc37925aae1f96f3ffed25f86e949
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:7df6c4368f0705590f9ea125fe89c23fdf695f2173018f806ac0102cc6f3fee4

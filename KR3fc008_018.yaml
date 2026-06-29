@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第十二卷囤積量容積倉知數推知糴數分定綱解纍收庫本米榖粒分第十三卷管建類計定城築樓櫓功料計造石壩計浚河渠第十四卷計作淸臺堂皇程築砌甎計積竹圍蘆束積木計餘第十五卷軍旅類計立方營
+  hash: sha256:59413ab78b301338fc8b3d8b74109a62466e441f5209907fa48d57c98b749ff2
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:d0091bfd1f6c7419b05fb828580d7d000f2fb458b6ce2fde12d093f24cfb7da5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/694
+seq: 694
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃以干圖副行銀一百兩乘兩價五十貫得五千貫以減干圖副行之積一萬三千二百五十貫訖副積餘八千二百五十貫其下鹽得三十三袋銀空而成曜圖乃以曜圖副行之積八千二百五十貫為鹽實以其下鹽三十三袋為法除之得二百五十貫為鹽一袋價而成支圖
+  hash: sha256:0fe49d0fa76cf10869071d339e22445851767cec1143cd004abf2e29dc02c687
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:5e0aa479771640f9dfa196ee0e393421ed0cc2cfc4397b7ec44ae369af9b72b9

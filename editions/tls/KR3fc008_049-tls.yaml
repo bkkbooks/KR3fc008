@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/49
+seq: 49
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各以大衍入之氣乘率得四百七十三朔乘率得五紀乘率得一十七萬二千七百一十七對左行衍數以右行乘率對乘左行衍數氣泛得二十億二千七百四十六萬七千二百朔泛得五億四千九百三十三萬六千紀泛得一十五億九千八百一十五萬四百一具圖如后
+  hash: sha256:92238db6f70cbc220a6827f4a0d3bd5bffe17df1aa40be3634e184edde9d006d
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:05cec9f63d8f7ab1dc391fcb6692eb96d8989352c2c5ab8e30a54bbf4b53e72b

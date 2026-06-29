@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/745
+seq: 745
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 堇父借閣抄本而録也豫轉假録之原無目録豫為增入時萬厯四十五年新正五日清常道人趙琦美記
+  hash: sha256:c988c93bfbbebc76d7851a736b6e75b377bbbdda34a31899d528428d44cdd986
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:16c93115cd13d082db7a895eff09667b41e9302ee0f686ac496a8b75563a5076

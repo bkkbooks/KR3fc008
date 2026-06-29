@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/702
+seq: 702
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為合半之得二百一十二合亦遍乘列衰為牙實甲得一百二十六萬一千八百二十四乙得七十七萬三千三百七十六丙得一百二十五萬六千七百三十六丁得一百二萬二千六百八十八各為沈香實以總法八百四十八除之甲得沈香一千四百八十八兩乙得沈香九百一十二兩丙得沈香一千四百八十二兩丁得沈香一千二百六兩甲得二百五十八萬六千六百四十乙得一百五十八萬五千三百六十丙得二百五十七萬六千二百一十丁得二百九萬六千四百三十各為椒實以總法八百四十八除之甲得三千五十包不盡二百四十包以包率四十斤乘之得九千六百斤又以法除之得一十一
+  hash: sha256:edd8c3ee4d5be5ceb336fffe931b88181f0c6cfeae4ed2288c516c857fb758d2
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:2c15c91265eaaa3e4965dcadd9c097b2787c90e7f295118b57c657854fde136c

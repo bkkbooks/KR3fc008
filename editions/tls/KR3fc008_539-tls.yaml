@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/539
+seq: 539
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰以商功求之招法入之置層高尺數乘面闊及長爲初率次以差闊尺數乘高又乘長爲次率卻以石版長闊厚相乘爲法以除二率各得石版爲上積及次積置㴱以層高尺數約之得層數對二積列之一行各添一撥天地數各以累乘對約之得乘率以對上次積併之
+  hash: sha256:c8a6922c5a474913bf1bcd3f5a8d95d52bef51861c05caef51dd8c0c50bcc3f4
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:a362e1b60549c37180b0848008092b18dc53c61485be4ec193ad6e16b4648a5c

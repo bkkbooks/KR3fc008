@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/631
+seq: 631
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置元內周八千四十尺爲實以後立尺七尺九寸一分約之得一千一十六爲內周人數不盡三尺四寸四分爲寬地本術所求內外周之人數旣定不拘人奇出奇入皆以六人爲重差或累差加減各得諸重圍數或併九重人課總軍所存望知敵眾問敵爲圓營在水北平沙不知人數諜稱彼營布卒占地
+  hash: sha256:fc3db3842694ca456d4700e634ce6d833c8d0ac3a3422c3d6d6f8c0494d11f6e
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:b7b895c25be05b87271d3ccae79a5ee8629e37ab436810efcad6f8190422f527

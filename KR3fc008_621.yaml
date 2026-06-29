@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/621
+seq: 621
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魯郡秦九韶圓營敷布問周制一軍欲布圓營九重每卒立圓邊六尺重間相去比立尺數倍之於內摘差兵四分之一出奇不可縮營示弱須令仍用元營布滿餘兵欲知元營內外周及立人數并出奇後每卒數立尺數外周人數各幾何答曰周制一軍一萬二千五百人出奇三千一百二十五人元內周八百四丈立一千三百四十人元外周八百六十一丈六尺立一千四百三十六人出奇後元外周立一千八十九人元內周立一千一十六人內外周人立七尺九寸一分未遣奇兵圓營圖
+  hash: sha256:6945f9467f578c6693e3c21fb16a9b1dbaaf9daf4bb20184472f01fc5185a0c0
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:48c67022c898adcbd24b1d7142904a1f33b6981ba5b91e24d5e5c8a38785299b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/684
+seq: 684
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定率圖右積得二千六百五十貫金五兩鹽一袋副積得一萬三千二百五十貫鹽三十三袋銀一百兩次積得二萬一千二百貫銀三百三十四兩度牒三道左積得三十一萬八千貫金一百七十五兩度牒一百五十六道乃以定圖次行之度牒三因左行左積得九十五萬四千貫金五百二十五兩度牒四百六十八道次以定圖左下度牒一百五十六道乘次行積得三百三十萬七千二百貫銀五萬二千一百四兩
+  hash: sha256:18f14094e2db8c049254d59069112f275173743e93b6b3b4fdf6e8cb1132d4fc
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:2e51c20f65f2b45593b689f2fd96c74910970c9688ada5772e5bd9686d82d813

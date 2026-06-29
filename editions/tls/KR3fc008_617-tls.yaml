@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/617
+seq: 617
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰以商功求之以圓率因內徑爲內周以人立尺約之爲內周人數乃以圓束差率爲隅次置內周人減隅餘爲從方列兵數爲實開平方得重數不盡爲餘兵置重數減一餘四因又乘圓邊尺數併內徑𠔏爲通徑以圓率因通徑得外周
+  hash: sha256:39fd9e92b484dc92a866a9cec858854520c59a60101060dd6cc0cb70f564eb3d
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:2f25b352cbd03ac48dad1bb4b80130e3f34603b31d2c00628d284fb2e556b564

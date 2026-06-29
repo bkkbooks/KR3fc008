@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/217
+seq: 217
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正負開三乘方圖術曰商常爲正實常爲負從常爲正益常爲負
+  hash: sha256:1920112a9e3895e2d774ace0d9cffc754a9ac55542d342bb81f26e043cb6fa60
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:2e7a8adb354461f0d2b427bbd844e2831e8e88aac37b66a8ba7b53fb728ab0e7

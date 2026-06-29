@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/285
+seq: 285
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃以步法五十寸乘中位遠法九百二十寸得下位四萬六千寸為后圖中位步寸法
+  hash: sha256:8218eb3d3f58172799a90417889b4e258796d7bbaf71868233623054d653b07c
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:4f6b4755572285655448bc88f91783a02169c68e2ca3f7606345d7c7e5805df8

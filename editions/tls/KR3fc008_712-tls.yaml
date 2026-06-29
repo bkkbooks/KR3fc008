@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/712
+seq: 712
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下圖以小麥二萬一千六百合乘油麻八合得一十七萬二千八百合又乘粳米一十八合得三百一十一萬四百合爲粳米實以小麥一十五合乘油麻一十二合得一百八十合爲法除之得一萬七千二百八十展作一十七石二斗八升爲粳米數書九章卷第十七
+  hash: sha256:274b47f8624b62ad2548780dc216448c82504d07d3edad2c92722dc41c932f76
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:64770d5f4db91d9f69370e6c6eecc2b2aaeef0cad19220cbe5a7cb93be87e76e

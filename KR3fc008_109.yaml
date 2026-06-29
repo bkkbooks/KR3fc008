@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/109
+seq: 109
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今以中行多者存之少者用減左行存者左行元數去之所減者左行餘數存之金得七十絲得八十石得一百一十匏得五十革得一十竹一十土一十木一十具圖如后列為左行以對右行定用數具圖如后
+  hash: sha256:3e18332a271270a72a5d8a88db6073b735a8aab5c8e65aa74b6e15f851a40587
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:857b850c40d76b2dc68f300746fb5690aa85de5a0019ff0f80d17faa9c7c0781

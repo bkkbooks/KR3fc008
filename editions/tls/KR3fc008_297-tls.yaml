@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/297
+seq: 297
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘只得此數乃直命之得一丈五尺一百五十七分尺之一百三十五爲水退立㴱
+  hash: sha256:9ee9d7eb1f11e69e6f76a6266f48f04011874ae97c7e8013fdbc5be42cdd18cd
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:3a98cd7005468518d08faedffb9ae656813ab3ef26c55deac037308a48fac3ac

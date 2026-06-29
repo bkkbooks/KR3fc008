@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/203
+seq: 203
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之七百六十四合問列問數各通為寸口徑得一十六寸深一十七寸底徑一十二寸籮中雪高一十寸乃以底徑減口徑餘四寸乘雪深一十寸得四十寸以半得數二十寸自乘得四百寸為隅以籮深一十七寸自乘得二百八十九寸為籮深羃次置雪深一十寸自乘得一百為雪深羃以雪深羃一百寸乘籮深羃二百八十九寸得二萬八千九百寸併隅四百寸得二萬九千三百寸為上
+  hash: sha256:339f73936a7ad332a9cfd5bda3a338abfb4b77350e79226621bce97464faf79f
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:8521aa12f2e67f76fc97352ee820650e30fb5682a8c62b4a84fe3d872cf56e76

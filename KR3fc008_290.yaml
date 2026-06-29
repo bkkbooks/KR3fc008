@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/290
+seq: 290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 等約之為峻定實峻定隅開同體連枝平方得峻岸斜長同體格先以隅開平方得數名同隅以同隅乘定實開之得數為實以同隅為法除之得峻斜求水退深置岸高羃乘峻定實為深實以去岸羃併岸高羃乘峻定隅為深隅其深實深隅可約約之仍以同體格入之開連枝平方得水退深
+  hash: sha256:7597cebb6e3a77c0fa8c02bd8d74c96e2374447e8bc2b58346b1620100dbc674
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:c61a6ecc5786828432c4cd5ee30bab20becf9f5d70f7161f3cf7fa54245fc29e

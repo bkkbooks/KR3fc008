@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/551
+seq: 551
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 及總用功各縣起夫甎石峻平道高長級數踏縱各幾何答曰土積一百五十四萬尺定一返二百步一十八分步之五每功人到土一百四十尺七百二十一分尺之一百四十八總用功四萬五千六百八十六功甲縣差一萬七千一百三十二功乙縣差一萬五千二百二十九功丙縣差一萬三千三百二十五功石四千三百一十七片甎三百一十四萬二千二十四片東裏道峻艮隅高九丈巽隅高一十一丈九尺四寸級五十踏踏縱二尺二寸九分東外道峻艮隅高六寸巽隅高四丈八尺級八十踏踏縱二尺一寸五分西峻道坤隅高四丈八尺乾隅高九丈級七十踏踏縱二尺一十四分寸之九南平道高四丈八尺北平道高九丈
+  hash: sha256:641a6d9fe20b33b13c31159bdb2346ba4beafffff2ea8cb97efdc7d6b4e88d0f
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:53567b1df268f7efc08a5a5b0ed7e1d8f240984eddcc10990d71f673df15185f

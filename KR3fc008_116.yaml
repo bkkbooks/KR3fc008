@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/116
+seq: 116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各以奇定用大衍求一各得乘率甲得一十五乙得五丙得一十一各為乘率列右行對寄左行衍數具圖如后以兩行對乘之得用數甲得三千六十乙得一千一百四十丙得三千五百五十三列右行具圖如后既得用數始驗問題三籮剩米列左行對三人所用以兩行對乘之甲得三千六十乙得一萬五千九百六十丙得三千五百五十三
+  hash: sha256:c4e236161e24cc1bbf762ca1e15a781582f06950038df3fdab491bb67d42b3dd
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:51a9b59c46398de39b114c3230cad6353e18490570c49dc712603b46741a04a0

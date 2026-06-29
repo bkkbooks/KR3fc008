@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/67
+seq: 67
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十為丙庫陌九為丁庫陌八為戊庫陌七為己庫陌六為庚庫陌得諸庫元陌以連環求等約訖甲得一乙得一十一丙得五丁得九戊得八己得七庚得一各為定母立各一為子先以諸定相乘得二萬七千七百二十為衍母次以諸定互乘諸子甲得二萬七千七百二十乙得二千五百二十丙得五千五百四十四丁得三千八十戊得三千四百六十五己得三千九百六十庚得二萬七千七百二十各為衍數次驗諸衍數有同衍母者皆去之為無衍數次各滿定
+  hash: sha256:3b099ce0a5428d4cae448e7f712f1baa4605aa48632596a718ca631e6720fc31
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:a486863e9865317aaf41b981f7a9c8782361bd68d27ca205c71b557038b4afbd

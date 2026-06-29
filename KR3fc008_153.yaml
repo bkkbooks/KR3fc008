@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/153
+seq: 153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以初行法半之得六十四日九十五分併見率五十六日得一百二十日九十五分為伏率以初行法寄之以伏率歸右下以對見率仍分左右兩行為首圖
+  hash: sha256:a5b87cdcfbe9de31cff2815a4ef49f07e72d1697eca79d7e62222c23da11d9c8
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:a89bc8a52f83ea97642aeee6ddf8bfeac64799bebea169b5654ba4090cd85c4a

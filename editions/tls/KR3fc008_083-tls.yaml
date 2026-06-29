@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/83
+seq: 83
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先以丙乙求等得一不約次以丙甲求等得三於術約奇不約偶蓋以等三約三因得一爲奇慮無衍數乃使徑先約甲三百爲一百復以等三乘丙三爲九旣丙九爲奇甲百爲偶此卽是約奇弗約偶次以乙四與甲百求等得四以四約一百得二十五爲甲復以四乘乙四得一十六爲乙各爲定母以定母相乘得三千六百爲衍母以各定約衍母爲衍數甲得一百四十四乙得二百二十五丙得四百衍數各滿定母去之不滿爲奇數甲得一十九乙得一丙得四以各奇數與定母用大衍入之各得乘數甲得四乙得一丙得七各爲乘率列右行
+  hash: sha256:6e91c9abf1fb5637bba2bd02ba2c49df6ab1a75eed172b65b954f6734d46f212
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:541568d2cbf982a001eb14a3f06c91e522c7727740cf9616993591af1ff5c8a4

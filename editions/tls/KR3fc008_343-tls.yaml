@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/343
+seq: 343
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百而一得七百四十八寸加表竿高四百二十二寸得一千一百七十寸以十約之爲一十一丈七尺爲塔高置相輪本入第七𨨠減一餘六以乘𨨠相去二尺五寸得一百五十寸又乘竿去塔六丈得九萬寸爲實實如前法三百寸而一得三百寸約三丈得相輪高以相輪高三丈減塔高一十一丈七尺餘八丈七尺爲塔身高益三尺爲剪截楯酉𠔏得九丈爲塔心木長合問數書九章卷第八
+  hash: sha256:31fccb583b0e63dde4d8ec893e61be34c9f1f0cd459025765b0a7879414f6802
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:6f60779c58f8438c7085d4fb3c677f64b4b89569db537284e6c4f8f12992ce23

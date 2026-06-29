@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/177
+seq: 177
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先以小暑節乘率二十五乘節率九千三百四十分得二十三寸三千五百分於上次以臨安夏至九寸一分自乘得八十二寸八千一百分為夏至羃乃以夏至羃加上得一百六寸一千六百分為小暑羃以為實以一寸為隅開平方得一尺三分為臨安小暑節景不盡七百分即寸下七毫弃之又以大暑乘率一百九乘節率九千三百四十分得一百一寸八千六十分於上位
+  hash: sha256:4ab44d6f56b206ae297796197637972418cdfad9ea65c2b6aee0da7b5c857092
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:2d41cc7fab5ae6c1d206fce11133b7ea0b5f6500ad95e66cc5f19a87c45e2140

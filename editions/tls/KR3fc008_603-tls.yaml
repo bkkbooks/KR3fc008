@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/603
+seq: 603
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方變銳陳問步兵五軍軍一萬二千五百人作方陳人立地方八尺欲變爲前後銳陳陳後闊今多元方面半倍陳間仍容騎路五丈以上順銳形出入求方陳面銳陳長及前後銳陳各布兵幾何毎方目爲十丈一面目爲大方毎面止五二人𠔏立二百五十人
+  hash: sha256:52a015e4f6ef4b23a5b4dff464bd72ad2627977fc657e2bfacb4aa7e2aa7ff76
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:f809d2a779807d07878602786654687d334fbce9c015904725507e88b2aae0dd

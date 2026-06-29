@@ -1,0 +1,13 @@
+canonical_identifier: bkk:krp/KR3fc008/bkk/v1/markers/462
+seq: 462
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc008_tls_001-p253.s4}
+  - {type: line-break, offset: 0, content: '', id: KX_4_dup152, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 10, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 16, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3fc008_tls_001-p253.s5}
+  - {type: line-break, offset: 21, content: '', id: KX_5_dup155, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  back: []
+hash: sha256:ded0cae1f9c2d4ad8c1b3a55d9b695af14e47bb38e69b7f19e8c03f0fd803890

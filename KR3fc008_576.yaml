@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/576
+seq: 576
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九丈為北道兩隅高又為西道乾隅高又為東裏道艮隅高具圖如后以北道高九丈減臺高一十二丈餘三丈為上停高以南道高四丈八尺減北道高九丈餘四丈二尺為中停高命南道高四丈八尺為下停高三停高皆如履級寸而一得五十為東裏道級數得七十為西道級數得八十為東外道級數次以上長八百二十寸減下長一千八百二十寸餘一千寸以半之得五百寸為句以乘南道高四百八十寸得二十四萬寸為實如臺高一千二百寸而一得一百寸為底率以率
+  hash: sha256:2b15af0e79bb0461ffbef999151e952924419e1d2a5be89e1fd3b1c2deddebbe
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:8c051a28fbd779e1c17486860ea12c4357d2d3bbaffb1702d914bc7d427acb2e

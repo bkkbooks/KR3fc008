@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/558
+seq: 558
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四十丈爲土率以六除得一千五百四十以千尺通之爲一百五十四萬尺爲堅積以築功九十尺除之得一萬七千一百一十一功九分功之一爲築功次以穿率四因堅積得六百一十六萬尺爲實以堅率三因钁鍬功二百尺得六百尺爲法除實得一萬二百六十六功三分功之二爲穿功次以壤率五因堅積得七百七十萬尺爲壤積以三爲母具圖如后求負土者先列全分一分之一及築至高少半係三分之一中半係二分之一太半係三分之二作兩行乃以右行母互乘左行子左上得一十二副位得九次得六下得一十八乃變右行名爲寄子以諸母相乘得一十
+  hash: sha256:8beba381d8751178418996ae0e602269dacbe6bc67c7f799e0c76aa5452ea0ad
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:de99d40f0f20d626ec49cbfa7ab6cf4ac85c4497a18a40cc3c9dad2927ea7617

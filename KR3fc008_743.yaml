@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/743
+seq: 743
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 草曰列一十分三位於左行又列一十分三位於右行其右上減去初減三分右中減去次減二分右下減去更減二分右行餘七八八以相乘得四百四十八為法乃以左行三位一十分相乘得一千為乘率以乘見日納錢一百五十六文八分得一百五十六貫八百文為實實如法而一得三百五十文為本戶元額房錢數書九章卷第十八
+  hash: sha256:fd376490faa0a42e1b6b1ac1f54a46add6dda513d8416023a413054ff1c96a7d
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:ba1c6390e0babe69a79b6db374163b8829517c05c7a2e389ec0e0461ab151d5b

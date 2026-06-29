@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遙度圓城望敵圓營望敵遠近古池推元表望浮圖第九卷賦役類復邑修賦第十卷圍田租畝築埂均勞寬滅屯租戶田均寬均科綿稅戶稅移割移運均勞均定勸分第十一卷錢榖類折解輕賫算回運費課糶貴賤
+  hash: sha256:a428d04063eb2632cba16fdbc55d65def2ece36aa4a59e54dcd9236ca9ceaa63
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:59fea25cff80e5e369ee03b0df354f3517617726a09f6c1c99240752cacdebb4

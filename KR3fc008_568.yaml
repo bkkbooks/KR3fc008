@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/568
+seq: 568
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置各縣日程約稅力得力率副併為科法上置甲縣力一十三萬三千八百六十六以一日程約之只得此數為甲率又置乙縣力二十三萬七千九百八十四以二日約得一十一萬八千九百九十二為乙率又置丙縣力三十一萬三千三百五十四以三日約得一十萬四千一百一十八為丙率列三率求等得一萬四千八百七十四俱約之甲得九乙得八丙得七各為定率副併得二十四具圖如后
+  hash: sha256:2ed67e61e7f1774d4c4af496f795dda40a548923c7e768e0064c540acfacd3a2
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:24ee992b29193e94d1bd45fa4e3b8ca6f96c83a370601dd23b08313ec114ca72

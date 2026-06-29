@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次以右下少數一除右上多數三須使右上必奇一算乃止遂於右行最上商二以除右衍必奇一乃以上商命右下定餘一除之右衍餘一次以商二與左下歸數相乘得二加入左上天元一內𠔏得三今驗右上衍餘得一當止乃以左上三為乘率與前三者乘率各一與衍定圖衍數對列之通計三以乘率對乘左行畢左上得一十二左副得一十二左次得四左下得九皆曰泛用數次以右行一一三四相乘得一十二名曰衍母復推元
+  hash: sha256:4c7b0994463e57948e3cda0ffcd05c746a72bb6738898fc1f9db7863a8f3a6fb
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:b6b57285c3c244fe0a25f56d6087bb6532adf552247c9e42ab4ab0127799f0db

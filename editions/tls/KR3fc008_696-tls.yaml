@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/696
+seq: 696
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃以支圖右行鹽一袋徧乘副行畢其副積只得二百五十貫次以副行直減右行畢右積餘二千四百貫金五兩鹽空而成閏圖乃以閏圖右積二千四百貫爲實金五兩爲法除之得四百八十貫爲金一兩價成定圖次以閏圖左金一百七十五兩徧乘右行直減左行訖左積得二十三萬四千貫度牒一百五十六道左金空而成定圖今騐定圖左積二十三萬四千貫爲實以左下度牒一百五十六道爲法除之得一千五百貫爲度牒一道價
+  hash: sha256:a6ba2af540cf9998fd646d3467107241584b8d5fca40ef906c225bfd9af20e40
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:b7c0f5ac391d79bb1b7d9413466a5f9a50bde9facbdabe37dc3bfc44315e7042

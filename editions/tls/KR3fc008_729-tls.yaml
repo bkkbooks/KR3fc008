@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/729
+seq: 729
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰置諸庫諸色之差照釐率爲三行縱併之爲約率橫命之爲乘率先以約率各約自庫之本各得以遍乘未併乘率然後各以釐率橫乘之次以縱併之爲各庫𠔏息
+  hash: sha256:e63456a491de116d7e950de084f9afd38a9cc9c81b21192f4f5049d51efecb30
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:313289e935bf090ace5eb4ebceab462076cd7850eb7c8ee18a35599dcf91a49b

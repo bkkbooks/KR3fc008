@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/329
+seq: 329
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰營周六里一百二步七分步之六徑二里術曰以勾股夕桀求之置表間自乘為勾羃以退表自乘
+  hash: sha256:29b666f3abdf773daa545d58bda49a45c62d1469841c736abd8e48959c902bc6
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:5200f5946249f79f752f4eb1ad1f170d402656973413e49ef719ad9867bca146

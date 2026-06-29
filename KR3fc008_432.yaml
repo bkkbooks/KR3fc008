@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/432
+seq: 432
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 草曰置上縣力五十七萬三千二百五十九貫五百文如九百二十五里而一得力六十一萬九千七百四十置中縣五十萬四千九百八十三貫七百八十文如六百五十二里而一得力七十七萬四千五百一十五置下縣四十九萬八千七百六十貫九百五十如四百六十五里而一得力一百七萬二千六百四不盡九十文與法求等得十五約之得三十一分之六置仁鄉一十二萬八千三百七十一貫九百八十如七百六里而一得
+  hash: sha256:8c8f4c6bc7c9d9656571c2c91447ceb9db14e2a1c277b219d083296dc6201e89
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:50df016b09f56e497d586525e6e8216d56d0902667ca741f82fbd35dddc89661

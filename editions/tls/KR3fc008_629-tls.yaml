@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/629
+seq: 629
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求出奇後以奇母四約軍一萬二千五百得三千一百二十五爲奇兵以減總軍餘九千三百七十五爲存兵次以率四百三十二加之得九千八百七人爲實如重數九而得一千八十九爲外周人不盡六次以元外周八千六百一十六尺爲實以外周人一千八十九約之得七尺九寸一分不盡二尺一分與法求等得三俱約之爲分下三百六十三分六十七
+  hash: sha256:ae68c70db663222cea3133615a6ee3e0889b99a98fe7893d4e511f7fdc13e672
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:c57adb5135989a986298a7755645c87e9e7cca9261d092e7751ceb9c48b22f20

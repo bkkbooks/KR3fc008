@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以右行定母一一三四互乘左行各子一惟不對乘本子畢左上得一十二左副得一十二左次得四次下得三皆曰衍數次以各母滿去衍數其上母去衍一十二奇一其副母一亦去副子一十二亦奇一其次母三去次衍四亦奇一其下母四欲去下子三則不滿便以三為左下奇數凡奇數得一者便為乘率今左下衍是三乃與本母四用大衍求一術入之列衍奇三於右上定母四於右下立天元一於左上空其左下先以右上少數三除右下多數四得一為商以商一乘左上天元一只得一歸左下其右下餘一
+  hash: sha256:09fdaac8231c17ada50e8aa77fdce0f63bdb77bb9385e3bf202b8feb00c5597a
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:6e8da9dc09bdc71385cb04e7be28e93c48959edce2af6ca943caff34707354ec

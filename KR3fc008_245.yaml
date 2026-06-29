@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/245
+seq: 245
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百五分步之四千四百八十八億八千六百二萬九千四十六為丙正長數書九章卷第五
+  hash: sha256:568852a04b113e0334028bb41c492bd759b5a325fe41aa3297d0c6170102ea4d
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:f8b75ac18e62dd09277bf6fa656354eb89287a04871d781eaf9a8e863c9026a9

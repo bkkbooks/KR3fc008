@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/281
+seq: 281
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十三步五分步之三為山高次以法四寸乘表高二丈三尺得九百二十為遠法以退後表三丈一尺三寸乘高實一百四十七萬六千七百二十寸得四億六千二百二十一萬三千三百六十寸為遠實實如遠法九百二十寸而一得五十萬二千四百五寸二十三分寸之一十九為積寸乃以步法五十寸乘遠法九百二十得四萬六千寸為法亦除遠實得一萬四十八步不盡五千三百六十與法求等得八十俱以約之為五百七十五分步之六十七又以里法三百六十步約得二十七里三百二十八步五百七十五分步之六十七為山後表人立望處算圖如後
+  hash: sha256:3b26ed3fabc9f97eb6465f7abb95a82f64ce86dea123abb2e775dd57dbb8140a
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:d31db73dd0846716b6e2689305bae8686b4fcd07fe54b5cce7e67016a388a690

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/686
+seq: 686
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃騐維圖左及次行之下度牒等當相減之以積爲端當以左之少積來減次之多積按術曰同名相減其次行之金空而左行之金五百二十五兩有爲正次空爲無按術曰正無人負之卽以左行之金正加入次行金位爲負乃成音圖仍置定圖左行諸數乃騐音圖次行積得二百三十五萬三千二百貫正金五百二十五兩負銀五萬二千一百四兩正餘三行皆正
+  hash: sha256:13978200a0bedae2fdd4f66c9ce1f410413f32b87d8d6fff464e0d69f463bc17
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:9c6d588ac41c261b3906d8bd6da49aaec635b3553b8ce14faf8cd112e474bbe1

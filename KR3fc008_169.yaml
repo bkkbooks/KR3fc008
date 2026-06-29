@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/169
+seq: 169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數書九章卷第三
+  hash: sha256:ea29be26abecc8857953e40ec9873f06449f61994cc72a414b912b95d27d0464
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:99c0f6e47bf42ee5e330c4457981b854255fefdce098105b6d7821bbdfe6d5e1

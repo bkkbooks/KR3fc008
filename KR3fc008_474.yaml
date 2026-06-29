@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/474
+seq: 474
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數為基增損求之以口底方相乘又各自乘併之為法除前上積得深餘分收弃之求圓斛置四數以因前積為寄如意立數為斛深別如意立數為底徑以三因深為從隅以底徑乘隅為從方以底徑乘從方為減率以減寄餘為實開連枝平方得口徑不盡以所得為基如意求差以口底徑相乘又各自乘併之為法除寄得深餘方收弃之求囤米置各囤上徑下徑相乘又各自乘併之乘高又乘囤數所得之數為積囤有大小以類併之為𠔏積如四而一為實以斛法除之得米
+  hash: sha256:e6b86f687069985b80911b2df9244a81a68dfb4f71e8a06df80af153be8684c0
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:324630136593bdf84eee3ca7e5a7c5c3b07df1ee7253f8861d51f2cb925869c9

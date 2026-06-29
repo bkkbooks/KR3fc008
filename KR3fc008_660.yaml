@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/660
+seq: 660
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求絮草曰置四人於左中一十三斤於左上少六千八百四斤於左下又置五人於右中一十四斤於右上適足為空於右下以左右之中四五互乘其上訖左上得六
+  hash: sha256:d997b4294c2f3f2b4b95e4208bf48e65f4d44a3ef9bf8295397b24581f7a8e3e
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:6b517418db202ac736d9a7d139fbb13fd4309e6e0a3e7b6fa127031a5c9036c5

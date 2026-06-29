@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/534
+seq: 534
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用石并灰𠔏工各幾何答曰壩下闊五丈石版一十萬八百片石灰一百萬八千斤用夫一十萬三千五百二十八功一十一分功之八
+  hash: sha256:b3dc2510b3a570bb151f8a848f5e64680e3aecaae3dc33bcd95492ecb7010940
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:a175816b7fde3f6ddd6b8d43fdb10cf9e7503d5a09e7d078db94f1b67882a591

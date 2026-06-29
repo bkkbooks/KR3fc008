@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/596
+seq: 596
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魯郡秦九韶計立方營問一軍三將將三十三隊隊一百二十五人遇暮立營人占地方八尺須令隊間容隊帥居中央欲知營方幾何荅曰營方一百七十一丈隊方九丈術曰以少廣求之置人占方冪乘毎隊人爲隊實以一爲隅開平方所得爲隊方面或開不盡就爲全數次置隊數乘將又四因之增三𠔏爲實以二爲從方一爲從隅開平方得率以乘隊方面爲營方面開不盡爲全數方營各隊圖
+  hash: sha256:e6b3eb931c06924f7f04f4fd5e32b6463048c35dd8da0796e69d5ba7c50a4953
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:541a21793ee65952bc30ac4193488e5832e7ed1c2bd07def4e68be966def1b8b

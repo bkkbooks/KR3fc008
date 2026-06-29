@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/636
+seq: 636
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 草曰置人立退表三十步以步法五尺展爲五十寸通之得一千五百寸乘入表八尺得一十二萬寸爲實以人目高四十八寸爲法除之得徑二千五百寸以密率周法二十二乘徑二千五百得五萬五千寸爲實以密率徑法七因諜稱人立八尺得五百六十爲法
+  hash: sha256:f67344c170bbedabf87123a204f30e07e6ebc0522612cc8575a5b151da62b91d
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:341e441c78d0cd4ecf70f38406851580dc59efe3084bb2bb9cfc53e1664658ef

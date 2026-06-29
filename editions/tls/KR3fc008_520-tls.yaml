@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/520
+seq: 520
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用功二百萬三千七百七十功新會二十萬三百七十七貫文支米五萬九十四石二斗五升
+  hash: sha256:d173d0403a35e5a9dd025ea1d63c28844200e1473467f16f7a586f46836eabd8
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:582a62c60a45b2a45505d906b0a8a66899696dcf7b87940637552550d07cef7d

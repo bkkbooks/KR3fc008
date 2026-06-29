@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/93
+seq: 93
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得二千六百二十五為泛用數併三泛得一萬二千一乃多衍母一倍當半衍母六千得三千以消甲四千餘一千又消乙五千三百七十六餘二千三百七十六丙不消各為定用數既得用數次視前草中甲及乙七百五十里為乙率乙及丙二千里為丙率各滿乙丙日行里去之今乙丙二人所行各皆適滿去之無餘雖稱同時俱至乃各係全日所行便以乙丙二人約六千里得三千里為彼去此里數合問積尺尋源問欲砌基一段見管大小方甎六門城甎四色令匠取便
+  hash: sha256:64735c6f085ce58192bd5a4ddba1753d8d0bfa7ab1954b5e3ff3f5a085392455
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:e309164fc61c973c020a43757fd89933d923dc8d10f612fbfb6ccac95d24ad90

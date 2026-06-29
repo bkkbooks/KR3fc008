@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/612
+seq: 612
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 計布圓陣問步卒二千六百人爲圓陣人立圓邊九尺形如車幅魚麗布陣陳重間倍人立圓邊尺數須令內徑七十二丈圓法用周三徑一之率欲知陳重幾數及內外周通徑并所立人數各幾何荅曰內周二百一十六丈
+  hash: sha256:5d3e8b8a2ecbcb9bf022c86f756ab428ae992bc0e8908442686b779393525cf7
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:8fe05b710e946541609a2fc7915f62dc833c4ade311566e498ca3c13f7403898

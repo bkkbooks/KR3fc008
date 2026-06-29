@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/741
+seq: 741
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 僦直推原問房廊數內一戶日納一百五十六文八分足為準指揮未曾經減者減三分已曾經減三分者減二分已曾經減二分者更減二分今本戶纍經減者欲知元額房錢幾何答曰元額三百五十文術曰以衰分求之列一十分兩行各三位列減分對減右行以餘者相乘為法以左行元列相乘得納錢為實實如法而一得元額錢
+  hash: sha256:cbcb5013135ac75f1e6c3b508c8e1fe658fcb678516e77cdd16a8add1518b9b8
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:43606ecac2ef54dc7d7548848943cc1ce952f333e99cae67904fe218b6189f65

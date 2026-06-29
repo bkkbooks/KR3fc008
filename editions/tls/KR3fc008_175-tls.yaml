@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/175
+seq: 175
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置臨安府所測冬至景一丈八寸二分二十五秒以夏至景九寸一分減之餘九尺九寸一分二十五秒爲景差以爲實置象限度九十一度三十一分四十四秒加一十一度二十五分二十七秒五十小分命度爲寸得一百二寸五千六百七十一分五十秒爲法以除前差實得空寸九千六百六十四分四十秒不盡弃之自乘得節泛數九千三百四十分不盡弃之
+  hash: sha256:3d21dc32f3a8bbc5e59f3ce6394020515a30da42d76ffbd8f4054c4a91b566e4
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:de62c15f41c8626c7dd2e607f49b5e72be496223b19d110ef389f39f0f55155e

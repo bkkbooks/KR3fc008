@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/627
+seq: 627
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次以人立圓邊六尺乘內周人一千三百四十得八千四十尺收作八百四丈爲內周尺數倍衰四十八得九十六乘圓邊六尺得五百七十六尺爲泛以泛五百七十六尺併內周八千四十尺得八千六百一十六尺爲外周尺以外周尺八千六百一十六爲實如圓邊六尺而一得一千四百三十六人爲外周人數
+  hash: sha256:f8f164f34ad94a529e9acb76fe17931d9cda4a3bd198036d038704483c3b33f4
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:0cb7011e926703f6e824901fc99aaa857b8911b9e4f5f55076fc2999abf2422c

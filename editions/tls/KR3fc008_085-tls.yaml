@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/85
+seq: 85
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以乘率對乘寄左行衍數甲得五百七十六乙得二百二十五丙得二千八百各爲用數次置甲申末到者其酉初爲夜此是甲以全日到爲無餘里次置乙於未正到乃於丣時數至未正得四個半辰以四半乘乙行二百四十里得一千八十爲實以晝六時約之得一百八十里爲乙行不及全日之餘里次置丙辰於末到自丣初數至辰末得二時以因丙行一百八十里得三百六十爲實以六時除之得六十里爲丙行不及全日之餘里
+  hash: sha256:238c78a2057e10d9e882665af8d64f91554545adafa5e7ecaef57029ca125683
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:1ce0cbfd20a471a034d8dd44191fdbd6f205abb5bffce5026425e591869b060f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各以定數約衍母各得衍數氣得四百二十八萬六千四百朔得一億九百八十六萬七千二百紀得九千二百五十三寄左行各滿定數去之各得奇數氣奇得三百一十三朔奇得四紀奇得九千二百五十三各與定數用大衍求一各得乘率列右行對寄左行衍數具圖如后
+  hash: sha256:e3933ca1772080d29a6c9d5d3679db7a979d7fd057114a10693f5e504a271e90
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:56323b9fba8e7e16b7a8b2c92498ca7d6526f504aadcc984f5b8d5ecc9323f1a

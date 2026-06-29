@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/462
+seq: 462
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今欲變右行足錢舊會皆爲新會故以五徧乘甲陌五十四得二百七十乙陌五十九得二百九十五
+  hash: sha256:ca7f14211374761f401263b0fb5628c384633d0409d87fab5b04d1e5ee86ec32
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:4ecb78a0290344998771beeb26235f8674508e8fafdd30f46096f56e4a42d1b8

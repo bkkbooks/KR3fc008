@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/102
+seq: 102
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金定一十三得衍數六千六百石定八得衍數一萬七百二十五絲定一十一得衍數七千八百竹定一無衍數匏定三得衍數二萬八千六百土定一無衍數革定二十五得衍數三千四百三十二木定一無衍數各滿定母去之得奇數金得奇九石得奇五絲得奇一匏得奇一革得奇七其絲匏得奇數一者便以一為乘率其金石革三處奇數皆與本定母用大衍求一入之各得乘率列右行金得三石得五絲得一匏得一革得一十八各為乘率
+  hash: sha256:38b3764a526920c439d0c843efea15e0cbd0e3b872638876361acf67d46be3d7
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:87ccc7221fb3c91773d6e29133f4c8ca5ba22543650f7a06eaf095a45467258c

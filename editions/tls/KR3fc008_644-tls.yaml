@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/644
+seq: 644
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知宿程里數合幾何荅曰六里二百四十步術曰以均輸求之置行數爲法以單數一行用乘日程里爲實實如法而一得宿程里步草曰置行數九爲法以單傔數一行用乘六十里爲實實如法而一得六里不盡六里以里法三百六十步通之得二千一百六十步又爲實仍如法九而一得二百四十步爲六里二百四十步宿程軍器功程問今欲造弓刀各一萬副箭一百萬隻據功程七人九日
+  hash: sha256:946714d1e51579cd62fa737b685cf03f9e4af8c4b858e59bb19fffd24be4cd5a
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:4853398fd0f23d47accc3834a85e0301f0a670b49174f1a5c59d757e6c04ff78

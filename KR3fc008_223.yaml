@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/223
+seq: 223
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已上係開三乘方翻法圖後篇效此
+  hash: sha256:23c44b20d617e481aa2564112393cd5758eb64b658ddb0412429340c85da64fe
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:169bcd23f900706dc19fca9b2354a7581b625e2b9b1e0d212c181fe7ae47b8c7

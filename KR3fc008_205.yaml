@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/205
+seq: 205
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置上位數二萬九千三百寸又乘雪深羃一百寸得二百九十三萬寸為實開三乘方以隅實求等得四百俱為約之得七千三百二十五為實一為隅開之步法不可超乃約實置商九寸與隅相生得九下廉下廉九又與商九相生得八十一為上廉
+  hash: sha256:af2976b51366bdcb627ace6d61b3ae153f30f1f1a7f04cef400f7eed94e56950
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:827e0870fe801ac8c31b92a35f1cda23a0d5e5f4cb815946c9b149436dd8c1ca

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/227
+seq: 227
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一百六十隅退二位爲一乃於實上續商四里生隅入從方內得一百六十四乃命續商除實適盡所得八十四里爲田積其形長八十四里廣一里以里法三百步自乘得九萬步乘八十四里得七百五十六萬步以畝法二百四十除之得三萬一千五百畝又以頃法一百畝約之得三百一十五頃斜蕩求積問有蕩一所正北闊一十七里自南尖穿徑中長二十四里東南斜二十里東北斜一十五里西斜二十六里欲知畝積幾何
+  hash: sha256:8ad5697f87bb5f49235531c72d3d229b28f9fc03ee8dbdd7014db68c02a00643
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:f67ce559624b88e210ec23662d70bdaf7eda5dbebde347a7d1d98cb41517d96e

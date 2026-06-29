@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/664
+seq: 664
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已上布綿絮三項求人兵數皆同今仍於各圖立算求之以合本術數書九章卷第十六
+  hash: sha256:5ad8a6f1eb903b835ea2e6e84d64dc79f4a60cdbed261e52c6ea404a68343e79
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:d995087a8b37a0a923c0fadd87251a54130dd662b6e1f0bb2d551e54cd7a8aec

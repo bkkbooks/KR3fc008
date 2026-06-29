@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/77
+seq: 77
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先以三率求總等得一不約次以連環求等其安吉率一百一十與平江率一百三十五求等得五以約平江率得二十七餘皆求等得一不約各得定數以定數相乘得二十四萬六千五百一十為衍母各以元率約之得二千九百七十為官斛衍數得二千二百四十一為安吉斛衍數得九千一百三十為平江斛衍數次以定母滿去衍數得不滿六十五為官斛奇不滿四十一為安吉奇不滿四為平江奇數定母奇數各以大衍入之求得乘數得二十三為官斛乘率得五十一為安吉乘率得七為平江乘率
+  hash: sha256:548f48efdc5bd332637e18e1946f97dcef7875a9eda4cf7e9acf55762752952f
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:8e5ce55e14255219007956caf5817189c7eb0c13d8924dd8548391c7dcbdbbd6

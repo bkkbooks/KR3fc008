@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/69
+seq: 69
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 母去各本衍各得奇數甲無乙得一丙得四丁得二戊得一己得五庚無各為奇數次驗有奇數者得一便以一為乘率或得二數以上者各以奇數於右上定母於右下立天元一於左上用大衍求一之術入之驗乘除至右上餘一而止皆以左上所得為乘率甲無乙得一丙得四丁得五戊得一己得三庚無各為乘率列右行以對寄左衍以兩行對乘之為用數甲無乙得二千五百二十丙得二萬二千一百七十六丁得一萬五千四百戊得三千四百六十五己得一萬一千八百八十庚無
+  hash: sha256:1ce4deb8ce3efac2d1fd5542452609487e6a7609171a506dc5f0942ac7013506
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:a26c3d1211e5d203b1c3079dbe4682a7604a7a30eccede16bacfd2111b2570c1

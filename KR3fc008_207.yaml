@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/207
+seq: 207
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上廉又與商相生得七百二十九為從方乃以從方七百二十九命上商九除實七千三百二十五訖實餘七百六十四既而復以商生隅入下廉下廉得一十八又與商九相生入上廉上廉得二百四十三又以商相生入方得二千九百一十六又以商九生隅一入下廉一十八內得二十七
+  hash: sha256:66a9fab6c961b639de9934a9cdc9e999616e6fb6dff39861185f1df2db9be4bf
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:d368fc2eaf811036195323bb737cfab08da736bdc65e3c774f56e4ff8f26a9fc

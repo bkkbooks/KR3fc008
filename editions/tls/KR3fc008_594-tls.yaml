@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/594
+seq: 594
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 草曰倍中面九條得一十八副置減一餘一十七以乘副一十八得三百六條以半之得一百五十三條爲元本之數副置中面九條減一餘八以乘副九得七十二以半之得三十六以減元木一百五十三餘一百一十七條爲見存木數合問數書九章卷第十四
+  hash: sha256:02a1529c8057cdfa9054f2ee29c02567a18e0cfb65859562d53ba8e2445255b5
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:c9cd2f76bdaf2f224375e25c85fb9724b951d94bf97cd39cab0078388c111480

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/625
+seq: 625
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰以商功求之置重數減一餘爲段以段乘圓差爲衰以衰乘重數爲率求元周以率減兵餘如重數而一得內周人數不滿爲餘兵以人立圓邊乘內周人得內周尺倍衰乘圓邊爲泛以泛併內周尺得外周尺爲實如圓邊而一得外周人求出奇後以率加存兵如重數而一得外周人不滿爲餘兵以外周人約元外周尺得後立尺以後立尺約元內周得內周人草曰置九重減一餘八爲段以乘圓束差六得四十八爲衰乘九重得四百三十二爲率求元周以率四百三十二減周制一軍一萬二千五百餘一萬二千六十八爲實如重數九而一得一千三百四十人爲內周人數不滿八人以爲餘兵之數
+  hash: sha256:174da351ee8a66eb73f95da72487befa758f9a9fd818ee8069fdff5dc32a6549
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:7be62447b609a2269a8e145f9ead1a0a0112a1d8beca378f94fdd8ea2770da3d

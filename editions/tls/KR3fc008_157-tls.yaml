@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/157
+seq: 157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故以兩行所得變名泛積法而成才圖乃騐才圖左上下皆少用減右行畢右上餘一百三十九度三十七分三十秒爲日差實右中空右下得一十二萬四千三十五日一分五十秒爲日差法今維圖法多實少除得空度空分十一秒二十三小分六十五小秒不盡十秒五十五小分三十九小秒五十二微分五十微秒收爲一小秒爲日定差一十一秒二十三小分六十六小秒旣得日差乃求初行率置法圖內初行法一百二十九日九十分內減去一日餘一百二十八日九十分乘日差一十一秒二十三小分六十六小秒得空度一十四
+  hash: sha256:5fce8a05c310a32941925815931bbe236a17c25682cac819d226425c13e979a2
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:b07089db2f93be9c7fb4e6b815a7c14b61af0db181cb701350d08a67fc33ea14

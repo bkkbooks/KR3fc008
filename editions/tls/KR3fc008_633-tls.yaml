@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/633
+seq: 633
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方八尺我軍在水南山原於原下立表高八丈與山腰等平自表端引繩虛量平至人足三十步人立其處望彼營北陵與表端參合又望營南陵入表端八尺人目高四尺八寸以圓密率入重差求敵眾合得幾何荅曰敵眾八百四十九人術曰以勾股求之置人退表步乘入表爲實以人目高爲法除之得徑以密周率乘徑得數爲實以密徑率因人立爲法約之得外周人數餘收爲一副置加六以乘副得數爲實如一十二而一餘亦收爲全
+  hash: sha256:3244977cc4ebe0e82123f0085479f3f0e29e8217e4bc04bbd1ff062a2c5b6916
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:9abcfb896a38d1be041167816eabb40296307b149200df10b1192dcb51c3fbfe

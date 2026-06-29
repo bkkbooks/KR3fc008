@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/692
+seq: 692
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃視卜圖副行積少次行積多卽以副行求減次行皆是同名相減之旣畢仍置定圖副行數其次行乃得積二千八百四十八萬二千二百貫銀得五十六萬九千六百四十四兩列爲宮圖騐宮圖次行下只有銀五十六萬九千六百四十四兩獨一數以爲法以次積二千八百四十八萬二千二百貫爲實實如法而一得五十貫爲銀一兩價而成干圖
+  hash: sha256:637b53e24dc9fe9918b8f0b4366a945fe8f5bb46888c652161601e4c8bde9f72
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:bf81c6a02ed4330e40793804fbdbbaafb14d653b39c2a83efa071494d1deeed3

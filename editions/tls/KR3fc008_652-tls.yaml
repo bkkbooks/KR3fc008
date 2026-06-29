@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/652
+seq: 652
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不盡三萬八千四百日與法四萬一千四百求等得六百俱以約之得六十九分日之六十四爲造箭日分合問計造軍衣問庫有布綿絮三色計料欲製軍衣其布六人八疋少一百六十疋七人九疋剩五百六十疋其綿八人一百五十兩剩一萬六千五百兩九人一百七十兩剩一萬四千四百兩其絮四人一十三斤少六千八百四斤五人一十四斤適足欲知軍士及布綿絮各幾何荅曰兵士一萬五千一百二十人布二萬疋綿三十萬兩絮四萬二千三百三十六斤術曰以盈朏求之置人數於左右之中置所給物各於其
+  hash: sha256:d4475dec96d2c01b229125630dc667ce68b2ce8ea1f12b53790a1af2b1aee2a1
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:af7f14821b03174f222e73a9efe43f68dca8de87a2ede326585d2a4b9adcbab8

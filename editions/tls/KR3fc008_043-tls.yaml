@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/43
+seq: 43
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 冬至得一千四百六十一朔實得二萬七千七百五十九甲子無母只是六十列三行互乘之具圖如后
+  hash: sha256:c4bbecb585c7756dbbafe49a5b7d801ff8146d34c11b9c6adf46cb865c0e1b3f
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:8c3af13ac7f07bd4bafa7358e57f130fa9517eea9595f20d5a21ba6b2b4abcab

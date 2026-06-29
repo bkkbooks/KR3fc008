@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/690
+seq: 690
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今視政圖從省乃擇其諸行本色可求等首金可鹽亦可蓋金多鹽少乃以政圖副次兩行鹽數三十三與一百五求等得三故以三約三十三得一十一以乘次行又以三約一百五得三十五以乘副行畢其副積得四十六萬三千七百五十貫鹽一千一百五十五袋銀三千五百兩次積二千八百九十四萬五千九百五十鹽一千一百五十五袋銀五十七萬三千一百四十四兩皆正列成卜圖
+  hash: sha256:4e3ff62cef878440e45809116d103287a0a411a1a4a02292b16c0fe9d7ed020f
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:824d52d514078db0ccea0b921a3cde6546fb4fba2a9b86ac7dfb5bd2cc6ddd8b

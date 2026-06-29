@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/456
+seq: 456
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 理甲餘二萬一千六百二十三貫四十八文乙餘一萬三百三十一貫四百一十八文丙餘三萬四千四百一十九貫五百四十一文丁餘一萬三千七百八十四貫七百四十四文合問
+  hash: sha256:eb39528f3634aa3f821f6720e33163ee9bda98b866b40b8b8ee62ac98f26991f
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:7a167f17e45ec75565fb34f237fd0282dcf585d8791c3ace2aff8b31a5d6a6cc

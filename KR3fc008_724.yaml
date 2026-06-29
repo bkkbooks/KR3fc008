@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc008/tls/v1/juan/724
+seq: 724
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘工藥錢三貫得一萬五千貫又加寄𠔏得二百二萬八千七百五十貫為價實二實併如法四千二十七兩五錢而一其色得一十分其價每兩得五百三貫七百二十四文不盡一貫五百九十與法求等得七十五俱約之為五百三十七分文之二百一十二
+  hash: sha256:8bb4268cec1d903c91c73b5c9216874ca548fadb691cd8dfc391c9095d6c1111
+metadata:
+  title: 數書九章
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc008.xml
+hash: sha256:176e36a60974eb2932e4812a52de5ea4ad9170d47d3a0376242b5cee0f0c86e0
