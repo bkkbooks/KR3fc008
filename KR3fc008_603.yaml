@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 方變鋭陳問步兵五軍軍一萬二千五百人作方陳人立地方八尺欲變為前後鋭陳陳後闊今多元方面半倍陳間仍容騎路五丈以上順鋭形出入求方陳面鋭陳長及前後鋭陳各布兵幾何每方目為十丈一面目為大方每面止五二人𠔏立二百五十人
-  hash: sha256:a9edb924ad9ab0049f69b651c2585b3ede0177015fcb6c998821f7fdf9c87e37
+  text: 方變銳陳問步兵五軍軍一萬二千五百人作方陳人立地方八尺欲變爲前後銳陳陳後闊今多元方面半倍陳間仍容騎路五丈以上順銳形出入求方陳面銳陳長及前後銳陳各布兵幾何毎方目爲十丈一面目爲大方毎面止五二人𠔏立二百五十人
+  hash: sha256:52a015e4f6ef4b23a5b4dff464bd72ad2627977fc657e2bfacb4aa7e2aa7ff76
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:63f5e765f365e6a5d50acb24d7873200b41c28fd54bcdad093fba01e85af6e73
+hash: sha256:f809d2a779807d07878602786654687d334fbce9c015904725507e88b2aae0dd

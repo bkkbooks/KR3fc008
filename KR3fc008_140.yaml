@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 乃以副位得數減上位歲率餘為歲閏次以次位入元歲乘中位歲位歲閏成下位
-  hash: sha256:13d51f43e93753dd59b0c350260b4d7b68c27ac1f2a171522254a001a18bdf34
+  text: 乃以副位得數減上位歲率餘爲歲閏次以次位入元歲乘中位歲位歲閏成下位
+  hash: sha256:7816c40f0a77b27d8a1fece9fe95c1cc76abfc72f9e20cdae542eb26ddbbed69
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:e3c256d3bd459fc193aba11eb989b052c362007b7f91af3a3bdfe6f39b220133
+hash: sha256:d77c8c577a0f58413ddb7a83b0b70009bd5afa1c95b2249756f629f046cf57d7

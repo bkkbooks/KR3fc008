@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 圓罌測雨峻積驗雪竹器驗雪第五卷田域類尖田求積三斜求積斜蕩求積計地容世蕉田求積均分梯田第六卷漂田推積環田三積圍田先計第七卷測望類望山高遠臨臺測水陡岸測水第八卷表望方城
-  hash: sha256:f7556433b868762aa1928ccc43b7d339473b8da576bdb8fd654a7cd85fd122b1
+  text: 圓罌測雨峻積騐雪竹器騐雪第五卷田域類尖田求積三斜求積斜蕩求積計地容世蕉田求積均分梯田第六卷漂田推積環田三積圍田先計第七卷測望類望山高遠臨臺測水陡岸測水第八卷表望方城
+  hash: sha256:ecbe298c85343a0f1830b3db94cbeb9d426547d8259592fd7fe1f8aa58ccd019
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:ef135fe6be1ff30538289c355a402add17e4251d62ca9934fe3218bf95f69517
+hash: sha256:b71407c4ca03e45cbb17f67577ee2cd7a20c94849d1762971e2bbcfd25f4590d

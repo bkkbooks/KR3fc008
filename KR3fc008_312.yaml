@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 廉為益上廉以北里乘上廉為實開玲瓏九乘方得數自乘為徑以三因徑得周遙度圓城圖其于后
-  hash: sha256:846c161f43b1fc9cd292031e1d626f4e556963d2fb2332ae6290721870647c3a
+  text: 廉爲益上廉以北里乘上廉爲實開玲瓏九乘方得數自乘爲徑以三因徑得周遥度圓城圖其于后
+  hash: sha256:3d0a78107b4b3544fd1c4399a08a4c74931e3e7425397e879473869f1e7cc1a6
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:512ab88911d3bf00bfb303fe96b1f65ff1265573e43f574d3ccf612ec849951f
+hash: sha256:c7e9622ceac0826b0bb11e367db2acce2d21fa7759db59ad60816b15575be606

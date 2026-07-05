@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 答數圖答曰𠔏穀一千七百五十九石三斗八升出穀九百二十四石得米三百九十六石易麥六百七十三石二斗踏麯三萬二百九十四斤
-  hash: sha256:dbc8804b7c7bf173c26bea5d159561e1ae9ab8781191b2404efc0c610d323147
+  text: 荅數圖荅曰𠔏穀一千七百五十九石三斗八升出穀九百二十四石得米三百九十六石易麥六百七十三石二斗踏麯三萬二百九十四斤
+  hash: sha256:9ffb93e9991af67bc1192995352c554ecb321754eb95f466d03252eafc51e9ab
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:bf2a30adb284a0eb992df247598623727b852f59d1cc826e9bc252d7539c416d
+hash: sha256:ba2a2fa6551161415c86791dc97b06dcf428d6065f68128d315be78680d7b003

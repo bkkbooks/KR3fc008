@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 用石并灰𠔏工各幾何答曰壩下闊五丈石版一十萬八百片石灰一百萬八千斤用夫一十萬三千五百二十八功一十一分功之八
-  hash: sha256:b3dc2510b3a570bb151f8a848f5e64680e3aecaae3dc33bcd95492ecb7010940
+  text: 用石并灰𠔏工各幾何荅曰壩下闊五丈石版一十萬八百片石灰一百萬八千斤用夫一十萬三千五百二十八功一十一分功之八
+  hash: sha256:b81d59ab14e8c02ba3e28895ea221decb5d126b2ece1d8b9eeb7dfcd3ec460f0
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:a175816b7fde3f6ddd6b8d43fdb10cf9e7503d5a09e7d078db94f1b67882a591
+hash: sha256:bb82c56f49e9e47022c55e3c560c9328ef127d89e9cab38197f6d40996f8130d

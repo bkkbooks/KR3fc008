@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 數半之為元木副置上層減一以乘其副得數半之用減元木餘為見存其非中一層數者各以自地上至面層數立術求之
-  hash: sha256:375a60eb716ef98346a0c70c03deb8aea3d46d8ad0ddafc4d89a4b95fa8fb4fe
+  text: 數半之爲元木副置上層減一以乘其副得數半之用減元木餘爲見存其非中一層數者各以自地上至面層數立術求之
+  hash: sha256:4eeda7858f8bb8ae19aad020234e72cb4edd85f58b99285232b6a93a99d57476
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:ededdac9a6492b2f0abc77eacdcfbe8ad1c8d01964c3bdb26e36bec735bdf370
+hash: sha256:02f2b1902fed64bd0a9f2b5abaf1302370b7efba05091725dba65fb5017615cd

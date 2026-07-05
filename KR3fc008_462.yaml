@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 今欲變右行足錢舊會皆為新會故以五遍乘甲陌五十四得二百七十乙陌五十九得二百九十五
-  hash: sha256:e323543133d66a3ead9a6e3bd9c834efa2c9ececf26f5ac52dbcb0889de47089
+  text: 今欲變右行足錢舊會皆爲新會故以五徧乘甲陌五十四得二百七十乙陌五十九得二百九十五
+  hash: sha256:ca7f14211374761f401263b0fb5628c384633d0409d87fab5b04d1e5ee86ec32
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:bd19e9c1602efc68314c1c525a78d1456f95a2195d7c85ca2ba7feab79c2c503
+hash: sha256:4ecb78a0290344998771beeb26235f8674508e8fafdd30f46096f56e4a42d1b8

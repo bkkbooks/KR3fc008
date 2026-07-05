@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 正負開三乘方圖術曰商常為正實常為負從常為正益常為負
-  hash: sha256:eda2b186e0c635f92676fd40f2cb961cf8a227aeb843a17b2472037f07f4bba9
+  text: 正負開三乘方圖術曰商常爲正實常爲負從常爲正益常爲負
+  hash: sha256:1920112a9e3895e2d774ace0d9cffc754a9ac55542d342bb81f26e043cb6fa60
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:b09df02f2e002c1976c91543041085eb80926a36d9e04aad33c539e306f1896d
+hash: sha256:2e7a8adb354461f0d2b427bbd844e2831e8e88aac37b66a8ba7b53fb728ab0e7

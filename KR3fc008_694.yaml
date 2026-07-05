@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 乃以干圖副行銀一百兩乘兩價五十貫得五千貫以減干圖副行之積一萬三千二百五十貫訖副積餘八千二百五十貫其下鹽得三十三袋銀空而成曜圖乃以曜圖副行之積八千二百五十貫為鹽實以其下鹽三十三袋為法除之得二百五十貫為鹽一袋價而成支圖
-  hash: sha256:0fe49d0fa76cf10869071d339e22445851767cec1143cd004abf2e29dc02c687
+  text: 乃以干圖副行銀一百兩乘兩價五十貫得五千貫以減干圖副行之積一萬三千二百五十貫訖副積餘八千二百五十貫其下鹽得三十三袋銀空而成曜圖乃以曜圖副行之積八千二百五十貫爲鹽實以其下鹽三十三袋爲法除之得二百五十貫爲鹽一袋價而成支圖
+  hash: sha256:431bc56da9f1637ffec722cc27cbbb34c318ed3c9e2eb6cd563a365811397e7f
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:5e0aa479771640f9dfa196ee0e393421ed0cc2cfc4397b7ec44ae369af9b72b9
+hash: sha256:582e0d99d01165bbed514d03337dce2baf8e2aed497586a3796136ec69dcd56f
