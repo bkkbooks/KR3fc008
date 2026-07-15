@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 問敵臨河爲圓營不知大小自河南岸至某地七里於其地立兩表相去二步其西表與敵營南北相直人退西表一十二步遙望東表適與敵營圓邊參合圓法用密率里法三百六十步欲知其營周及徑各幾何
-  hash: sha256:7ab50253abb13e1b7ff14197f8c56232b0543146e00d9977fa0782460f389d12
+  text: 問敵臨河為圓營不知大小自河南岸至某地七里於其地立兩表相去二步其西表與敵營南北相直人退西表一十二步遙望東表適與敵營圓邊參合圓法用密率里法三百六十步欲知其營周及徑各幾何
+  hash: sha256:f3cb76410ed1f02863683f0c93a5d3d72f6c40260c416b1ea2345198b60d3f79
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:bb794a79a65e5bb11f97bd39ac39c4adf09179413ed5ed241064ec1311f9c659
+hash: sha256:81817834a7d5d69c2464ef036b46ff6b7d9553aa37bdaa1cc6bfc224696d84eb

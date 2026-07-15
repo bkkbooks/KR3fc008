@@ -5,25 +5,32 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc008_tls_001-p35.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup24, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 9, original: 騐, replacement: 驗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17258}}
   - {type: 'tls:seg', offset: 21, content: '', id: KR3fc008_tls_001-p35.s2}
   - {type: line-break, offset: 21, content: '', id: KX_2_dup25, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3fc008_tls_001-p35.s3}
   - {type: line-break, offset: 42, content: '', id: KX_3_dup24, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 63, content: '', id: KR3fc008_tls_001-p35.s4}
   - {type: line-break, offset: 63, content: '', id: KX_4_dup23, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 74, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 76, content: '', id: KR3fc008_tls_001-p35.s9}
   - {type: line-break, offset: 76, content: '', id: KX_9_dup27, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 97, content: '', id: KR3fc008_tls_001-p35.s10}
   - {type: line-break, offset: 97, content: '', id: KX_10_dup26, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: substitution, offset: 114, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 118, content: '', id: KR3fc008_tls_001-p35.s11}
   - {type: line-break, offset: 118, content: '', id: KX_11_dup25, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: substitution, offset: 121, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 131, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 139, content: '', id: KR3fc008_tls_001-p35.s13}
   - {type: line-break, offset: 139, content: '', id: KX_13_dup24, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3fc008_tls_001-p35.s14}
   - {type: line-break, offset: 160, content: '', id: KX_14_dup25, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 172, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 181, content: '', id: KR3fc008_tls_001-p35.s15}
   - {type: line-break, offset: 181, content: '', id: KX_15_dup23, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 183, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 189, content: '', id: KR3fc008_tls_001-p35.s23}
   - {type: line-break, offset: 189, content: '', id: KX_23_dup25, _xml_error: duplicate-id, _xml_original_id: KX_23}
   back: []
-hash: sha256:0f0dc25830f1ddf1d7a0bfc6fc2d4a51138b6dbac45c275a0af6db56d98d1c1e
+hash: sha256:a384f91e00caa7e7f2a81c0fd1dc461c683a61f7901eccdaa6ac12557e786f98

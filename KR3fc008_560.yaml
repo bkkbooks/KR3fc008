@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 八爲寄母具圖如后次列棚道全分及所當鮮母衍子三當五及三當七并二當五乃以右行鮮母互乘左行衍子上得四十五副得四十二次得三十下得一十八爲右行以鮮母相乘得一十八乃對寄左圖列之乃以左右兩行母子對乘之上得五百四十副得三百
-  hash: sha256:e5eb09af8bcac9cbd98a4c167c3a1f6ee01948b29c0636fb18f5ad697ff33516
+  text: 八為寄母具圖如后次列棚道全分及所當鮮母衍子三當五及三當七并二當五乃以右行鮮母互乘左行衍子上得四十五副得四十二次得三十下得一十八為右行以鮮母相乘得一十八乃對寄左圖列之乃以左右兩行母子對乘之上得五百四十副得三百
+  hash: sha256:c0f3a6118448e9d65e0037a5c64b8fa220bd6041d0aeca3d10ba44f27c1cab3a
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:9e96ab82d7b1d6d335c9cf66bbf746b5e169d7b1537a4540ac170aabae2cfec5
+hash: sha256:bcb0d4ffbb1faec61fb93719ed24551f2f5a903f4eb72fd06f380470565f3d68

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 荅曰營周六里一百二步七分步之六徑二里術曰以勾股夕桀求之置表間自乘爲勾羃以退表自乘
-  hash: sha256:76e6195d7f86bc2d743384f93fb4cabd449d4c0a4b4447727958b61fdb652068
+  text: 答曰營周六里一百二步七分步之六徑二里術曰以勾股夕桀求之置表間自乘為勾羃以退表自乘
+  hash: sha256:29b666f3abdf773daa545d58bda49a45c62d1469841c736abd8e48959c902bc6
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:059a3356e76684ae23b84579212ccd0f689d3a5b1741b2896412f3dbad7b0a48
+hash: sha256:5200f5946249f79f752f4eb1ad1f170d402656973413e49ef719ad9867bca146

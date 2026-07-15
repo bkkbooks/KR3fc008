@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 又以大暑景併五日景得二尺八寸四分七十二秒半以半之得一尺四寸二分三十六秒少爲大暑後三日景又以五日景併三日景得二尺九寸一分二十一秒太以半之得一尺四寸五分六十秒八十七小分爲大暑后四日景
-  hash: sha256:2925c3adc659fa9bd63d7142da10188255040f786c813d44a16fe4d3c8976dfc
+  text: 又以大暑景併五日景得二尺八寸四分七十二秒半以半之得一尺四寸二分三十六秒少為大暑後三日景又以五日景併三日景得二尺九寸一分二十一秒太以半之得一尺四寸五分六十秒八十七小分為大暑后四日景
+  hash: sha256:db1cf971d16305608eb7ddba9562cb9570ba255244744d3b9c9d8fe04cecd820
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:c5a08b99314ae3861e4d68f5958ce94b99e63a8d559494f6daa39301df0e1034
+hash: sha256:ee79db65de686018d3bceb01f7da3685825ff28d1f261bae0903b02926762cd3

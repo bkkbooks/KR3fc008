@@ -11,6 +11,7 @@ markers:
   - {type: line-break, offset: 32, content: '', id: KX_3_dup107, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 35, content: '', id: KR3fc008_tls_001-p193.s4}
   - {type: line-break, offset: 35, content: '', id: KX_4_dup99, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 38, original: 𠔏, replacement: 共, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0283}}
   - {type: 'tls:seg', offset: 56, content: '', id: KR3fc008_tls_001-p193.s5}
   - {type: line-break, offset: 56, content: '', id: KX_5_dup103, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 72, content: '', id: KR3fc008_tls_001-p193.s6}
@@ -31,6 +32,7 @@ markers:
   - {type: line-break, offset: 167, content: '', id: KX_14_dup97, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 176, content: '', id: KR3fc008_tls_001-p193.s15}
   - {type: line-break, offset: 176, content: '', id: KX_15_dup88, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 179, original: 𠔏, replacement: 共, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0283}}
   - {type: 'tls:seg', offset: 193, content: '', id: KR3fc008_tls_001-p193.s16}
   - {type: line-break, offset: 193, content: '', id: KX_16_dup94, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 207, content: '', id: KR3fc008_tls_001-p193.s17}
@@ -48,4 +50,4 @@ markers:
   - {type: 'tls:seg', offset: 276, content: '', id: KR3fc008_tls_001-p193.s23}
   - {type: line-break, offset: 276, content: '', id: KX_23_dup84, _xml_error: duplicate-id, _xml_original_id: KX_23}
   back: []
-hash: sha256:ec3fdf2fcd7186356195759ae7d6d9a7ef1475b7af3799a684bd28a7f286d72d
+hash: sha256:76e63bbc5d8ba7f62d5873a743f159e5ee5fb9e56705d43d00c539e33d407ad6

@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 63, content: '', id: KX_8_dup53, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 84, content: '', id: KR3fc008_tls_001-p86.s9}
   - {type: line-break, offset: 84, content: '', id: KX_9_dup52, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: substitution, offset: 101, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 105, content: '', id: KR3fc008_tls_001-p86.s10}
   - {type: line-break, offset: 105, content: '', id: KX_10_dup53, _xml_error: duplicate-id, _xml_original_id: KX_10}
   - {type: 'tls:seg', offset: 108, content: '', id: KR3fc008_tls_001-p86.s18}
@@ -25,7 +26,10 @@ markers:
   - {type: line-break, offset: 171, content: '', id: KX_21_dup43, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: 'tls:seg', offset: 192, content: '', id: KR3fc008_tls_001-p86.s22}
   - {type: line-break, offset: 192, content: '', id: KX_22_dup41, _xml_error: duplicate-id, _xml_original_id: KX_22}
+  - {type: substitution, offset: 199, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 211, original: 弃, replacement: 棄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16564}}
   - {type: 'tls:seg', offset: 213, content: '', id: KR3fc008_tls_001-p86.s23}
   - {type: line-break, offset: 213, content: '', id: KX_23_dup45, _xml_error: duplicate-id, _xml_original_id: KX_23}
+  - {type: substitution, offset: 213, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   back: []
-hash: sha256:9a7e6bd85e6f94d1aa48ba8dc82c98f0078cf8d63e9e45400d1149197ee126c8
+hash: sha256:295badddbc1e1ca7a2d16ff5e20432a858c857d24ca84ba12cea4976a7ebdec5

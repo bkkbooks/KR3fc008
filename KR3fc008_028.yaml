@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 少陽得四爲老陰得老陽畫重爻得少陰畫拆爻得少陽畫單爻得老陰畫交爻凡六畫乃成卦草曰置一二三四列右行立天元一列左行
-  hash: sha256:d9a53e3dc763bf4e8c8b2bca40d2c338e533e77f9250bfb0dcbb0045640f9b2e
+  text: 少陽得四為老陰得老陽畫重爻得少陰畫拆爻得少陽畫單爻得老陰畫交爻凡六畫乃成卦草曰置一二三四列右行立天元一列左行
+  hash: sha256:628fa5d05b323e63504b7d465c71571c319e0b77853bc2e00c13c34a8950a047
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:fb425f4034c02aa7017143a4eff41795802cd602a3e1dbda27195bdb8a0d0ed2
+hash: sha256:e2320c0e7fe4e81c8c81447a7c292de94a0aa850fcdd24af4c238ade69e46fcf

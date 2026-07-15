@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 方變銳陳計布圓陣第十六卷圓營敷布望知敵眾均敷徭役先計軍程軍器功程計造軍衣第十七卷市物類推求物價均貨推本互易推本菽粟互易第十八卷推計互易煉金計直推求本息推求興本僦直推原札記四卷附
-  hash: sha256:fdaeeeb830b00eea189c1d36b147ebcc4799335aeb38b6bb8744e5d66b2d1928
+  text: 方變鋭陳計布圓陳第十六卷圓營敷布望知敵衆均敷徭役先計軍程軍器功程計造軍衣第十七卷市物類推求物價均貨推本互易推本菽粟互易第十八卷推計互易煉金計直推求本息推求興本僦直推原札記四卷附
+  hash: sha256:515ae13b376ce2baaf605055f5105cca2efc1d8c39c0fa2cb582c123d6298464
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:5031ca50f86ee67856fd4eeb8bddb0c8bc16a02e2342fc2f757c71495c83625e
+hash: sha256:54e1bf05228aa1f0e2d02182102f1344b8e6d0ef4181962947fb1d640f57c22a

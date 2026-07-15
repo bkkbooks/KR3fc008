@@ -5,11 +5,16 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc008_tls_001-p404.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup221, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 12, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 18, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 22, content: '', id: KR3fc008_tls_001-p404.s2}
   - {type: line-break, offset: 22, content: '', id: KX_2_dup236, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 24, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fc008_tls_001-p404.s3}
   - {type: line-break, offset: 43, content: '', id: KX_3_dup233, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 60, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: substitution, offset: 63, original: 𠔏, replacement: 共, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0283}}
   - {type: 'tls:seg', offset: 64, content: '', id: KR3fc008_tls_001-p404.s4}
   - {type: line-break, offset: 64, content: '', id: KX_4_dup232, _xml_error: duplicate-id, _xml_original_id: KX_4}
   back: []
-hash: sha256:2d92f2c8719e42fa668a35d1d38dd66ba941126aead8f722026c8eb2dea31f0c
+hash: sha256:0a7dc549d1bd5e8078ba91777bba3724b9c2ae65e9dd8822bac383b71cc210ec

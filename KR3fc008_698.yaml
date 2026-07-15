@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 以成終圖旣得金銀毎兩鈔鹽毎袋度牒毎道各色之價次列甲乙丙丁四人乘之復以首圖右金二百兩併左金五十八兩八銖得二百五十八兩以八銖爲三分兩之一通分內子得七百七
-  hash: sha256:68b30f687a2b7f683666b9dd1556b6d2f014aef9adf6c176d758725e9a571bb7
+  text: 以成終圖既得金銀每兩鈔鹽每袋度牒每道各色之價次列甲乙丙丁四人乘之復以首圖右金二百兩併左金五十八兩八銖得二百五十八兩以八銖為三分兩之一通分內子得七百七
+  hash: sha256:c1a3fca2344928d2d43eec8d652eb3cefef0db26310a282ffc9e3fbae99d22b4
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:5b8f64a37dc5b89df2ab279d9b9be4179ed789594591b00bcbaf0d74db93d9f8
+hash: sha256:b34ea489abc1885cacbfc68fd042f35938952fe5da020f2a06edfea5bf107860

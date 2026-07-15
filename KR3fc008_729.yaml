@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 術曰置諸庫諸色之差照釐率爲三行縱併之爲約率橫命之爲乘率先以約率各約自庫之本各得以遍乘未併乘率然後各以釐率橫乘之次以縱併之爲各庫𠔏息
-  hash: sha256:e63456a491de116d7e950de084f9afd38a9cc9c81b21192f4f5049d51efecb30
+  text: 術曰置諸庫諸色之差照釐率為三行縱併之為約率橫命之為乘率先以約率各約自庫之本各得以遍乘未併乘率然後各以釐率橫乘之次以縱併之為各庫共息
+  hash: sha256:151caf3a98969f726820a813d65544dab4d55656a845513773879a3a3ab23c1c
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:313289e935bf090ace5eb4ebceab462076cd7850eb7c8ee18a35599dcf91a49b
+hash: sha256:f7b27896312dc33a02ce78aea7265d60c62a513689a00505ed66cc2a2f6d0ef5

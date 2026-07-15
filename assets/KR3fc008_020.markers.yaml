@@ -5,14 +5,17 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc008_tls_001-p10.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup8, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 2, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20839}}
   - {type: 'tls:seg', offset: 4, content: '', id: KR3fc008_tls_001-p10.s2}
   - {type: line-break, offset: 4, content: '', id: KX_2_dup9, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 7, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20393}}
   - {type: 'tls:seg', offset: 8, content: '', id: KR3fc008_tls_001-p10.s3}
   - {type: line-break, offset: 8, content: '', id: KX_3_dup9, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 12, content: '', id: KR3fc008_tls_001-p10.s4}
   - {type: line-break, offset: 12, content: '', id: KX_4_dup9, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 16, content: '', id: KR3fc008_tls_001-p10.s5}
   - {type: line-break, offset: 16, content: '', id: KX_5_dup9, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 19, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fc008_tls_001-p10.s6}
   - {type: line-break, offset: 20, content: '', id: KX_6_dup9, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fc008_tls_001-p10.s7}
@@ -50,4 +53,4 @@ markers:
   - {type: 'tls:seg-start', offset: 87, content: '', id: KR3fc008_tls_001-p10.s23.2, seg_type: comm, member_ids: [KR3fc008_tls_001-p10.s23.2]}
   - {type: 'tls:seg', offset: 87, content: '', id: KR3fc008_tls_001-p10.s23.2}
   back: []
-hash: sha256:50c8d63eda7bcb43b75c5f9ca8e3cd752999bd547e158348b2c00f96e6f016d2
+hash: sha256:fac6385395cb2fafe78e425b24b76b30f8ea4b92a045fa5292064e5591714e54

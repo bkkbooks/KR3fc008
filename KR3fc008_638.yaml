@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 以法五百六十寸約實五萬五千寸得九十八人爲外周人數不盡一百二十寸弃之副置外周九十八人加六得一百四人乘副爲實
-  hash: sha256:75cadafd89ea2c8aa959bee248caa24664faf0c335b2a064f11b7f0c40110877
+  text: 以法五百六十寸約實五萬五千寸得九十八人為外周人數不盡一百二十寸棄之副置外周九十八人加六得一百四人乘副為實
+  hash: sha256:d1d5098b16cfd57c005f5d49243039d183b26dfe4f85ef5c19fdbfe4f8ec69ac
 metadata:
   title: 數書九章
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc008.xml
-hash: sha256:501bd42ac7088b230351be645a621060ce99296630424b13b4bb19bfe8693a9c
+hash: sha256:086e180d744423c4d582482ce3a38d402daa6dcae6b76979eff93f67a05542fa
